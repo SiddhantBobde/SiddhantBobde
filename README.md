@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **AWS**
 
 - 📝 I regularly write articles on [https://siddhantbobde.blogspot.com/](https://siddhantbobde.blogspot.com/)
 
-- 💬 Ask me about **ReactJS, Java, Python**
+- 💬 Ask me about **ReactJS, Java, Python, Clickhouse**
 
 - 📫 How to reach me **siddhantbobde1704@gmail.com**
 
