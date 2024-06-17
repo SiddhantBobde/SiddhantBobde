@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📝 I regularly write articles on [https://siddhantbobde.blogspot.com/](https://siddhantbobde.blogspot.com/)
+- 📝 I regularly write articles on [https://siddhantbytes.hashnode.dev/](https://siddhantbytes.hashnode.dev/)
 
 - 💬 Ask me about **ReactJS, Java, Python, Clickhouse**
 
